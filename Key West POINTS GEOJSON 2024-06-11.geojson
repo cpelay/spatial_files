@@ -1,0 +1,1071 @@
+{"type":"FeatureCollection","name":"All Addresses|Selection","map_layer_type":"Point","bounds":[[-81.814808,24.547169],[-81.590294,24.628185]],"center":[-81.702551,24.587677],"zoom":8,"median_zoom":14,"count":267,"property_names":["RE_Address_City","[Subdivision Name (ObjectID)]"],"features":
+[
+{"type":"Feature",
+"id":11956,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.805871,24.552554]}}
+,
+{"type":"Feature",
+"id":11994,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.806563,24.555016]}}
+,
+{"type":"Feature",
+"id":11782,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.80657,24.555178]}}
+,
+{"type":"Feature",
+"id":11924,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.805442,24.554331]}}
+,
+{"type":"Feature",
+"id":11948,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.806615,24.555909]}}
+,
+{"type":"Feature",
+"id":11965,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.806615,24.555909]}}
+,
+{"type":"Feature",
+"id":11987,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.806501,24.55667]}}
+,
+{"type":"Feature",
+"id":11912,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.81485,24.562448]}}
+,
+{"type":"Feature",
+"id":12026,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (828 )"},
+"geometry":{"type":"Point","coordinates":[-81.803218,24.550527]}}
+,
+{"type":"Feature",
+"id":12027,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (828 )"},
+"geometry":{"type":"Point","coordinates":[-81.803218,24.550527]}}
+,
+{"type":"Feature",
+"id":12022,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (181 )"},
+"geometry":{"type":"Point","coordinates":[-81.801657,24.550096]}}
+,
+{"type":"Feature",
+"id":11821,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (181 )"},
+"geometry":{"type":"Point","coordinates":[-81.802152,24.550486]}}
+,
+{"type":"Feature",
+"id":11954,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (604 )"},
+"geometry":{"type":"Point","coordinates":[-81.798747,24.548392]}}
+,
+{"type":"Feature",
+"id":11952,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (604 )"},
+"geometry":{"type":"Point","coordinates":[-81.797993,24.54856]}}
+,
+{"type":"Feature",
+"id":11839,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (640 )"},
+"geometry":{"type":"Point","coordinates":[-81.797303,24.548897]}}
+,
+{"type":"Feature",
+"id":11808,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.798793,24.550076]}}
+,
+{"type":"Feature",
+"id":11920,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (30 )"},
+"geometry":{"type":"Point","coordinates":[-81.798344,24.550017]}}
+,
+{"type":"Feature",
+"id":11921,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (30 )"},
+"geometry":{"type":"Point","coordinates":[-81.798344,24.550017]}}
+,
+{"type":"Feature",
+"id":11825,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (845 )"},
+"geometry":{"type":"Point","coordinates":[-81.803963,24.552079]}}
+,
+{"type":"Feature",
+"id":11938,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804037,24.553243]}}
+,
+{"type":"Feature",
+"id":11810,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803998,24.555162]}}
+,
+{"type":"Feature",
+"id":12029,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (181 )"},
+"geometry":{"type":"Point","coordinates":[-81.801592,24.551919]}}
+,
+{"type":"Feature",
+"id":11894,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803243,24.554179]}}
+,
+{"type":"Feature",
+"id":11868,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.801493,24.555279]}}
+,
+{"type":"Feature",
+"id":11788,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11817,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11829,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11903,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11980,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11981,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":12006,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804853,24.555856]}}
+,
+{"type":"Feature",
+"id":11970,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803283,24.555624]}}
+,
+{"type":"Feature",
+"id":11771,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804406,24.558152]}}
+,
+{"type":"Feature",
+"id":11998,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803652,24.558452]}}
+,
+{"type":"Feature",
+"id":11997,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803149,24.558785]}}
+,
+{"type":"Feature",
+"id":11999,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.803149,24.558785]}}
+,
+{"type":"Feature",
+"id":11883,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (43 )"},
+"geometry":{"type":"Point","coordinates":[-81.800439,24.551723]}}
+,
+{"type":"Feature",
+"id":11824,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (46 )"},
+"geometry":{"type":"Point","coordinates":[-81.800341,24.553174]}}
+,
+{"type":"Feature",
+"id":11819,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (37 )"},
+"geometry":{"type":"Point","coordinates":[-81.798027,24.553066]}}
+,
+{"type":"Feature",
+"id":11964,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (605 )"},
+"geometry":{"type":"Point","coordinates":[-81.797252,24.55331]}}
+,
+{"type":"Feature",
+"id":11915,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (465 )"},
+"geometry":{"type":"Point","coordinates":[-81.798106,24.554218]}}
+,
+{"type":"Feature",
+"id":11798,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.800952,24.557092]}}
+,
+{"type":"Feature",
+"id":11840,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799632,24.556256]}}
+,
+{"type":"Feature",
+"id":12032,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799632,24.556256]}}
+,
+{"type":"Feature",
+"id":11828,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799609,24.556252]}}
+,
+{"type":"Feature",
+"id":11813,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.80096,24.559178]}}
+,
+{"type":"Feature",
+"id":11849,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.800255,24.558908]}}
+,
+{"type":"Feature",
+"id":12011,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799617,24.557907]}}
+,
+{"type":"Feature",
+"id":11960,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.79785,24.556127]}}
+,
+{"type":"Feature",
+"id":11899,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.798426,24.559342]}}
+,
+{"type":"Feature",
+"id":11947,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.797561,24.559384]}}
+,
+{"type":"Feature",
+"id":11942,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"FILER - BOYLE (781)"},
+"geometry":{"type":"Point","coordinates":[-81.796386,24.547138]}}
+,
+{"type":"Feature",
+"id":12019,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (16092 )"},
+"geometry":{"type":"Point","coordinates":[-81.796179,24.549746]}}
+,
+{"type":"Feature",
+"id":11835,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.796953,24.550516]}}
+,
+{"type":"Feature",
+"id":11776,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (16092 )"},
+"geometry":{"type":"Point","coordinates":[-81.797102,24.551125]}}
+,
+{"type":"Feature",
+"id":11881,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (290 )"},
+"geometry":{"type":"Point","coordinates":[-81.795233,24.551405]}}
+,
+{"type":"Feature",
+"id":11791,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.794639,24.54989]}}
+,
+{"type":"Feature",
+"id":11887,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.789922,24.54864]}}
+,
+{"type":"Feature",
+"id":12033,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.789307,24.549199]}}
+,
+{"type":"Feature",
+"id":11822,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WEBB REALTY CO (563)"},
+"geometry":{"type":"Point","coordinates":[-81.790049,24.550479]}}
+,
+{"type":"Feature",
+"id":12030,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WEBB REALTY CO (563)"},
+"geometry":{"type":"Point","coordinates":[-81.789883,24.550279]}}
+,
+{"type":"Feature",
+"id":11932,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (232 )"},
+"geometry":{"type":"Point","coordinates":[-81.796859,24.554535]}}
+,
+{"type":"Feature",
+"id":11862,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (28 )"},
+"geometry":{"type":"Point","coordinates":[-81.794347,24.552671]}}
+,
+{"type":"Feature",
+"id":11833,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"AMENDED PART TRACT 12 (415)"},
+"geometry":{"type":"Point","coordinates":[-81.793229,24.552392]}}
+,
+{"type":"Feature",
+"id":11926,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WATSONS (890)"},
+"geometry":{"type":"Point","coordinates":[-81.793122,24.554561]}}
+,
+{"type":"Feature",
+"id":11910,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (25692 )"},
+"geometry":{"type":"Point","coordinates":[-81.795575,24.557751]}}
+,
+{"type":"Feature",
+"id":11863,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.795282,24.559576]}}
+,
+{"type":"Feature",
+"id":11801,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"J LOWE (538)"},
+"geometry":{"type":"Point","coordinates":[-81.794044,24.555563]}}
+,
+{"type":"Feature",
+"id":12028,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"J LOWE (538)"},
+"geometry":{"type":"Point","coordinates":[-81.793516,24.555883]}}
+,
+{"type":"Feature",
+"id":12031,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WATSON (539)"},
+"geometry":{"type":"Point","coordinates":[-81.793045,24.557417]}}
+,
+{"type":"Feature",
+"id":11957,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.794644,24.558487]}}
+,
+{"type":"Feature",
+"id":11951,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (35292 )"},
+"geometry":{"type":"Point","coordinates":[-81.794759,24.558887]}}
+,
+{"type":"Feature",
+"id":11986,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (35292 )"},
+"geometry":{"type":"Point","coordinates":[-81.794956,24.55915]}}
+,
+{"type":"Feature",
+"id":11953,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (35292 )"},
+"geometry":{"type":"Point","coordinates":[-81.793912,24.558581]}}
+,
+{"type":"Feature",
+"id":12012,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WATSON (539)"},
+"geometry":{"type":"Point","coordinates":[-81.793165,24.557823]}}
+,
+{"type":"Feature",
+"id":11857,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WATSONS (890)"},
+"geometry":{"type":"Point","coordinates":[-81.792487,24.55371]}}
+,
+{"type":"Feature",
+"id":12018,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"GWYNN (889)"},
+"geometry":{"type":"Point","coordinates":[-81.789961,24.553072]}}
+,
+{"type":"Feature",
+"id":11870,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WATSONS (890)"},
+"geometry":{"type":"Point","coordinates":[-81.790787,24.553499]}}
+,
+{"type":"Feature",
+"id":11914,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WC MALONEY (36)"},
+"geometry":{"type":"Point","coordinates":[-81.791522,24.558508]}}
+,
+{"type":"Feature",
+"id":11945,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WC MALONEY (36)"},
+"geometry":{"type":"Point","coordinates":[-81.791522,24.558508]}}
+,
+{"type":"Feature",
+"id":11785,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WC MALONEY (36)"},
+"geometry":{"type":"Point","coordinates":[-81.791292,24.557957]}}
+,
+{"type":"Feature",
+"id":11834,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"WADDELL (576)"},
+"geometry":{"type":"Point","coordinates":[-81.791317,24.558797]}}
+,
+{"type":"Feature",
+"id":12016,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (511 )"},
+"geometry":{"type":"Point","coordinates":[-81.790906,24.559591]}}
+,
+{"type":"Feature",
+"id":11804,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (511 )"},
+"geometry":{"type":"Point","coordinates":[-81.790481,24.559145]}}
+,
+{"type":"Feature",
+"id":11988,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (511 )"},
+"geometry":{"type":"Point","coordinates":[-81.790221,24.559473]}}
+,
+{"type":"Feature",
+"id":11861,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804128,24.56036]}}
+,
+{"type":"Feature",
+"id":11895,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.804128,24.56036]}}
+,
+{"type":"Feature",
+"id":12024,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.802354,24.560217]}}
+,
+{"type":"Feature",
+"id":11902,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799629,24.560714]}}
+,
+{"type":"Feature",
+"id":11908,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.799626,24.560943]}}
+,
+{"type":"Feature",
+"id":11784,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (111 )"},
+"geometry":{"type":"Point","coordinates":[-81.795707,24.56054]}}
+,
+{"type":"Feature",
+"id":11836,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.79474,24.55994]}}
+,
+{"type":"Feature",
+"id":11772,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MARTELLO TOWERS (22)"},
+"geometry":{"type":"Point","coordinates":[-81.788856,24.548611]}}
+,
+{"type":"Feature",
+"id":11860,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MARTELLO TOWERS (22)"},
+"geometry":{"type":"Point","coordinates":[-81.788622,24.54859]}}
+,
+{"type":"Feature",
+"id":11922,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.787762,24.548458]}}
+,
+{"type":"Feature",
+"id":11973,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MARTELLO TOWERS (22)"},
+"geometry":{"type":"Point","coordinates":[-81.787832,24.549091]}}
+,
+{"type":"Feature",
+"id":11937,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MARTELLO TOWERS (22)"},
+"geometry":{"type":"Point","coordinates":[-81.787701,24.549175]}}
+,
+{"type":"Feature",
+"id":11867,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.786342,24.550311]}}
+,
+{"type":"Feature",
+"id":11872,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.786342,24.550311]}}
+,
+{"type":"Feature",
+"id":11818,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PROGRESSIVE LAND CO DIAGRAM (16)"},
+"geometry":{"type":"Point","coordinates":[-81.785597,24.550608]}}
+,
+{"type":"Feature",
+"id":11886,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SUNSHINE NO 1 (806)"},
+"geometry":{"type":"Point","coordinates":[-81.784777,24.549583]}}
+,
+{"type":"Feature",
+"id":11892,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MACROS (15)"},
+"geometry":{"type":"Point","coordinates":[-81.783535,24.551151]}}
+,
+{"type":"Feature",
+"id":11803,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.782752,24.549128]}}
+,
+{"type":"Feature",
+"id":11816,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.782752,24.549128]}}
+,
+{"type":"Feature",
+"id":11858,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.782752,24.549128]}}
+,
+{"type":"Feature",
+"id":11898,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.782752,24.549128]}}
+,
+{"type":"Feature",
+"id":12003,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.782623,24.550927]}}
+,
+{"type":"Feature",
+"id":11917,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KAMIEN NO 2 (13)"},
+"geometry":{"type":"Point","coordinates":[-81.781047,24.551228]}}
+,
+{"type":"Feature",
+"id":11831,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KAMIEN NO 2 (13)"},
+"geometry":{"type":"Point","coordinates":[-81.780767,24.551404]}}
+,
+{"type":"Feature",
+"id":11786,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"TROPICAL INVESTMENTS (19)"},
+"geometry":{"type":"Point","coordinates":[-81.787299,24.552685]}}
+,
+{"type":"Feature",
+"id":11966,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MOFFAT (20)"},
+"geometry":{"type":"Point","coordinates":[-81.788604,24.554397]}}
+,
+{"type":"Feature",
+"id":11939,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.788246,24.553893]}}
+,
+{"type":"Feature",
+"id":12023,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"TROPICAL INVESTMENTS (19)"},
+"geometry":{"type":"Point","coordinates":[-81.786696,24.553238]}}
+,
+{"type":"Feature",
+"id":11852,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"TROPICAL INVESTMENTS (19)"},
+"geometry":{"type":"Point","coordinates":[-81.786073,24.552679]}}
+,
+{"type":"Feature",
+"id":11848,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.78639,24.555053]}}
+,
+{"type":"Feature",
+"id":11820,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.784611,24.552195]}}
+,
+{"type":"Feature",
+"id":11781,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"TROPICAL INVESTMENTS (19)"},
+"geometry":{"type":"Point","coordinates":[-81.784792,24.553466]}}
+,
+{"type":"Feature",
+"id":11775,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"TROPICAL INVESTMENTS (19)"},
+"geometry":{"type":"Point","coordinates":[-81.784768,24.553463]}}
+,
+{"type":"Feature",
+"id":11809,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.784223,24.553029]}}
+,
+{"type":"Feature",
+"id":11919,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.783867,24.554219]}}
+,
+{"type":"Feature",
+"id":12017,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.783646,24.553549]}}
+,
+{"type":"Feature",
+"id":11977,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.783121,24.554681]}}
+,
+{"type":"Feature",
+"id":11996,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.781107,24.554468]}}
+,
+{"type":"Feature",
+"id":12008,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MONROE INVESTMENT CO (877)"},
+"geometry":{"type":"Point","coordinates":[-81.784217,24.555569]}}
+,
+{"type":"Feature",
+"id":11767,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"No Name (875 )"},
+"geometry":{"type":"Point","coordinates":[-81.783753,24.557421]}}
+,
+{"type":"Feature",
+"id":11780,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.781548,24.555725]}}
+,
+{"type":"Feature",
+"id":11793,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.779514,24.551315]}}
+,
+{"type":"Feature",
+"id":11933,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"AUDITORIUM TRACT (27292)"},
+"geometry":{"type":"Point","coordinates":[-81.775812,24.550652]}}
+,
+{"type":"Feature",
+"id":11929,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.780339,24.551673]}}
+,
+{"type":"Feature",
+"id":11802,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.77939,24.552116]}}
+,
+{"type":"Feature",
+"id":11800,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"AUDITORIUM TRACT (27292)"},
+"geometry":{"type":"Point","coordinates":[-81.778242,24.551961]}}
+,
+{"type":"Feature",
+"id":11923,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"AUDITORIUM TRACT (27292)"},
+"geometry":{"type":"Point","coordinates":[-81.778242,24.551961]}}
+,
+{"type":"Feature",
+"id":12035,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.780579,24.556325]}}
+,
+{"type":"Feature",
+"id":11806,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.775387,24.558188]}}
+,
+{"type":"Feature",
+"id":11879,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.775473,24.558925]}}
+,
+{"type":"Feature",
+"id":11934,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"CORAL ESTATES RESUB (5701)"},
+"geometry":{"type":"Point","coordinates":[-81.772771,24.557905]}}
+,
+{"type":"Feature",
+"id":11978,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.781639,24.563234]}}
+,
+{"type":"Feature",
+"id":11911,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.78483,24.564447]}}
+,
+{"type":"Feature",
+"id":11797,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.776707,24.561595]}}
+,
+{"type":"Feature",
+"id":12004,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.776211,24.561611]}}
+,
+{"type":"Feature",
+"id":11905,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.775332,24.560515]}}
+,
+{"type":"Feature",
+"id":12014,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.774569,24.559832]}}
+,
+{"type":"Feature",
+"id":11930,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.7736,24.560147]}}
+,
+{"type":"Feature",
+"id":11876,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST REALTY CO (851)"},
+"geometry":{"type":"Point","coordinates":[-81.772588,24.560486]}}
+,
+{"type":"Feature",
+"id":11789,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.771401,24.551847]}}
+,
+{"type":"Feature",
+"id":12020,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.764361,24.557654]}}
+,
+{"type":"Feature",
+"id":12034,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"RIVIERA SHORES 1ST ADDITION (838)"},
+"geometry":{"type":"Point","coordinates":[-81.764266,24.557822]}}
+,
+{"type":"Feature",
+"id":11812,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"CORAL REEF ESTATES (694)"},
+"geometry":{"type":"Point","coordinates":[-81.770861,24.56043]}}
+,
+{"type":"Feature",
+"id":11993,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"LIME GROVE NO 2 (693)"},
+"geometry":{"type":"Point","coordinates":[-81.769993,24.561477]}}
+,
+{"type":"Feature",
+"id":11984,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BAY MANOR (689)"},
+"geometry":{"type":"Point","coordinates":[-81.769754,24.563078]}}
+,
+{"type":"Feature",
+"id":12015,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BAY MANOR (689)"},
+"geometry":{"type":"Point","coordinates":[-81.768838,24.563241]}}
+,
+{"type":"Feature",
+"id":11832,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.76848,24.564291]}}
+,
+{"type":"Feature",
+"id":11907,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PLAT OF SURVEY ISLAND OF KEY WEST (839)"},
+"geometry":{"type":"Point","coordinates":[-81.769521,24.566812]}}
+,
+{"type":"Feature",
+"id":11865,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"RIVIERA SHORES (732)"},
+"geometry":{"type":"Point","coordinates":[-81.768389,24.559622]}}
+,
+{"type":"Feature",
+"id":11855,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"LIME GROVE (13694)"},
+"geometry":{"type":"Point","coordinates":[-81.768025,24.561352]}}
+,
+{"type":"Feature",
+"id":11856,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"LIME GROVE (13694)"},
+"geometry":{"type":"Point","coordinates":[-81.768025,24.561352]}}
+,
+{"type":"Feature",
+"id":11768,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.766441,24.562904]}}
+,
+{"type":"Feature",
+"id":11974,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PLAT OF SURVEY ISLAND OF KEY WEST (839)"},
+"geometry":{"type":"Point","coordinates":[-81.765898,24.5665]}}
+,
+{"type":"Feature",
+"id":11975,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PLAT OF SURVEY ISLAND OF KEY WEST (839)"},
+"geometry":{"type":"Point","coordinates":[-81.765898,24.5665]}}
+,
+{"type":"Feature",
+"id":12021,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.766505,24.569505]}}
+,
+{"type":"Feature",
+"id":11765,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.764544,24.568422]}}
+,
+{"type":"Feature",
+"id":11972,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"RIVIERA SHORES (732)"},
+"geometry":{"type":"Point","coordinates":[-81.762946,24.56125]}}
+,
+{"type":"Feature",
+"id":11850,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.764284,24.562976]}}
+,
+{"type":"Feature",
+"id":11815,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.762338,24.562247]}}
+,
+{"type":"Feature",
+"id":11838,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"RIVIERA SHORES (732)"},
+"geometry":{"type":"Point","coordinates":[-81.760581,24.562155]}}
+,
+{"type":"Feature",
+"id":11871,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.76138,24.563942]}}
+,
+{"type":"Feature",
+"id":11851,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.762149,24.567043]}}
+,
+{"type":"Feature",
+"id":11982,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.761564,24.566993]}}
+,
+{"type":"Feature",
+"id":11955,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 2 (733)"},
+"geometry":{"type":"Point","coordinates":[-81.757171,24.56574]}}
+,
+{"type":"Feature",
+"id":12036,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.762684,24.569421]}}
+,
+{"type":"Feature",
+"id":11796,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.763714,24.571002]}}
+,
+{"type":"Feature",
+"id":11769,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.763009,24.571379]}}
+,
+{"type":"Feature",
+"id":11983,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.761021,24.570167]}}
+,
+{"type":"Feature",
+"id":11985,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.760395,24.569866]}}
+,
+{"type":"Feature",
+"id":11873,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.759228,24.568892]}}
+,
+{"type":"Feature",
+"id":11766,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.75851,24.568942]}}
+,
+{"type":"Feature",
+"id":11770,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.758744,24.570084]}}
+,
+{"type":"Feature",
+"id":11795,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.758806,24.57085]}}
+,
+{"type":"Feature",
+"id":11777,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN HEIGHTS (13692)"},
+"geometry":{"type":"Point","coordinates":[-81.75889,24.570927]}}
+,
+{"type":"Feature",
+"id":11971,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN ESTATES 3RD ADDITION (724)"},
+"geometry":{"type":"Point","coordinates":[-81.757743,24.568993]}}
+,
+{"type":"Feature",
+"id":11962,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.748623,24.558647]}}
+,
+{"type":"Feature",
+"id":11961,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SUNRISE SHORES (729)"},
+"geometry":{"type":"Point","coordinates":[-81.755428,24.563547]}}
+,
+{"type":"Feature",
+"id":11897,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.755616,24.564389]}}
+,
+{"type":"Feature",
+"id":12025,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.75521,24.565637]}}
+,
+{"type":"Feature",
+"id":11792,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.754241,24.565094]}}
+,
+{"type":"Feature",
+"id":11989,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PEARLMAN ESTATES (681)"},
+"geometry":{"type":"Point","coordinates":[-81.754928,24.567455]}}
+,
+{"type":"Feature",
+"id":11888,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"VISTA DEL MAR (728)"},
+"geometry":{"type":"Point","coordinates":[-81.753797,24.56421]}}
+,
+{"type":"Feature",
+"id":12000,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.753908,24.564949]}}
+,
+{"type":"Feature",
+"id":12001,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.753908,24.564949]}}
+,
+{"type":"Feature",
+"id":11936,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.753582,24.565055]}}
+,
+{"type":"Feature",
+"id":11794,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.753364,24.565125]}}
+,
+{"type":"Feature",
+"id":11931,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"VISTA DEL MAR (728)"},
+"geometry":{"type":"Point","coordinates":[-81.75288,24.564507]}}
+,
+{"type":"Feature",
+"id":11925,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 2 (733)"},
+"geometry":{"type":"Point","coordinates":[-81.754045,24.566738]}}
+,
+{"type":"Feature",
+"id":11884,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.750216,24.560978]}}
+,
+{"type":"Feature",
+"id":11774,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.74989,24.55997]}}
+,
+{"type":"Feature",
+"id":12002,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.749248,24.560053]}}
+,
+{"type":"Feature",
+"id":11891,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.749328,24.560335]}}
+,
+{"type":"Feature",
+"id":11807,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PART LANDS FORMERLY OWNED KEY WEST IMPROVEMENT (830)"},
+"geometry":{"type":"Point","coordinates":[-81.74936,24.560449]}}
+,
+{"type":"Feature",
+"id":11958,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.75158,24.566787]}}
+,
+{"type":"Feature",
+"id":11847,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.75157,24.56679]}}
+,
+{"type":"Feature",
+"id":11890,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.75157,24.56679]}}
+,
+{"type":"Feature",
+"id":12037,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY WEST FOUNDATION NO 1 (731)"},
+"geometry":{"type":"Point","coordinates":[-81.751519,24.566805]}}
+,
+{"type":"Feature",
+"id":11935,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.740919,24.5656]}}
+,
+{"type":"Feature",
+"id":11869,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MALONEY (665)"},
+"geometry":{"type":"Point","coordinates":[-81.74696,24.568731]}}
+,
+{"type":"Feature",
+"id":11837,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"LINCOLN GARDENS NO 2 (661)"},
+"geometry":{"type":"Point","coordinates":[-81.745151,24.568325]}}
+,
+{"type":"Feature",
+"id":11790,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.746517,24.57389]}}
+,
+{"type":"Feature",
+"id":11928,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.745788,24.575515]}}
+,
+{"type":"Feature",
+"id":11841,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"LINCOLN MANOR ESTATES (662)"},
+"geometry":{"type":"Point","coordinates":[-81.742646,24.568492]}}
+,
+{"type":"Feature",
+"id":11880,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.743431,24.575017]}}
+,
+{"type":"Feature",
+"id":11967,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.736797,24.560056]}}
+,
+{"type":"Feature",
+"id":11941,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MALONEY (665)"},
+"geometry":{"type":"Point","coordinates":[-81.737652,24.569566]}}
+,
+{"type":"Feature",
+"id":11976,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MALONEY (665)"},
+"geometry":{"type":"Point","coordinates":[-81.737652,24.569566]}}
+,
+{"type":"Feature",
+"id":11783,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"MALONEY (665)"},
+"geometry":{"type":"Point","coordinates":[-81.735995,24.572062]}}
+,
+{"type":"Feature",
+"id":11963,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.777577,24.576864]}}
+,
+{"type":"Feature",
+"id":11990,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.77412,24.581246]}}
+,
+{"type":"Feature",
+"id":11814,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"JUNIOR COLLEGE ROAD (4092)"},
+"geometry":{"type":"Point","coordinates":[-81.748046,24.577961]}}
+,
+{"type":"Feature",
+"id":11826,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.743364,24.576645]}}
+,
+{"type":"Feature",
+"id":11845,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.74315,24.58193]}}
+,
+{"type":"Feature",
+"id":11968,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.741659,24.585613]}}
+,
+{"type":"Feature",
+"id":11969,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.741659,24.585613]}}
+,
+{"type":"Feature",
+"id":11949,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.740077,24.584555]}}
+,
+{"type":"Feature",
+"id":11950,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.739916,24.58435]}}
+,
+{"type":"Feature",
+"id":11842,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.741821,24.586789]}}
+,
+{"type":"Feature",
+"id":11844,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 7TH ADDITION (721)"},
+"geometry":{"type":"Point","coordinates":[-81.738073,24.580717]}}
+,
+{"type":"Feature",
+"id":11913,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 7TH ADDITION (721)"},
+"geometry":{"type":"Point","coordinates":[-81.738073,24.580717]}}
+,
+{"type":"Feature",
+"id":11778,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 7TH ADDITION (721)"},
+"geometry":{"type":"Point","coordinates":[-81.738496,24.581715]}}
+,
+{"type":"Feature",
+"id":11854,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.739036,24.583112]}}
+,
+{"type":"Feature",
+"id":11853,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.738889,24.582905]}}
+,
+{"type":"Feature",
+"id":11991,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.739476,24.583731]}}
+,
+{"type":"Feature",
+"id":11893,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 5TH ADDITION (734)"},
+"geometry":{"type":"Point","coordinates":[-81.736146,24.580605]}}
+,
+{"type":"Feature",
+"id":11904,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 7TH ADDITION (721)"},
+"geometry":{"type":"Point","coordinates":[-81.736729,24.58285]}}
+,
+{"type":"Feature",
+"id":11992,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 2ND ADDITION (714)"},
+"geometry":{"type":"Point","coordinates":[-81.733768,24.578168]}}
+,
+{"type":"Feature",
+"id":11927,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 2ND ADDITION (714)"},
+"geometry":{"type":"Point","coordinates":[-81.733782,24.578393]}}
+,
+{"type":"Feature",
+"id":11877,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 5TH ADDITION (734)"},
+"geometry":{"type":"Point","coordinates":[-81.735629,24.580551]}}
+,
+{"type":"Feature",
+"id":11940,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN (711)"},
+"geometry":{"type":"Point","coordinates":[-81.731852,24.580492]}}
+,
+{"type":"Feature",
+"id":11944,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.73967,24.588029]}}
+,
+{"type":"Feature",
+"id":12005,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.738579,24.587418]}}
+,
+{"type":"Feature",
+"id":11827,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.737547,24.585689]}}
+,
+{"type":"Feature",
+"id":11859,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.737433,24.585592]}}
+,
+{"type":"Feature",
+"id":11979,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.736786,24.586694]}}
+,
+{"type":"Feature",
+"id":11830,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 8TH ADDITION (675)"},
+"geometry":{"type":"Point","coordinates":[-81.736837,24.586904]}}
+,
+{"type":"Feature",
+"id":11811,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 10TH ADDITION (673)"},
+"geometry":{"type":"Point","coordinates":[-81.738745,24.588975]}}
+,
+{"type":"Feature",
+"id":11916,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 1ST ADDITION (13292)"},
+"geometry":{"type":"Point","coordinates":[-81.731158,24.57831]}}
+,
+{"type":"Feature",
+"id":12009,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 3RD ADDITION (713)"},
+"geometry":{"type":"Point","coordinates":[-81.729913,24.581113]}}
+,
+{"type":"Feature",
+"id":12010,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 3RD ADDITION (713)"},
+"geometry":{"type":"Point","coordinates":[-81.729913,24.581113]}}
+,
+{"type":"Feature",
+"id":11909,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"KEY HAVEN 3RD ADDITION (713)"},
+"geometry":{"type":"Point","coordinates":[-81.730456,24.581689]}}
+,
+{"type":"Feature",
+"id":11773,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"GEIGER MOBILE HOMES (773)"},
+"geometry":{"type":"Point","coordinates":[-81.658171,24.576888]}}
+,
+{"type":"Feature",
+"id":11799,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.670151,24.593162]}}
+,
+{"type":"Feature",
+"id":11779,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.670125,24.596246]}}
+,
+{"type":"Feature",
+"id":11805,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"JOHNSONVILLE (672)"},
+"geometry":{"type":"Point","coordinates":[-81.66179,24.597269]}}
+,
+{"type":"Feature",
+"id":11875,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"JOHNSONVILLE (672)"},
+"geometry":{"type":"Point","coordinates":[-81.661261,24.598649]}}
+,
+{"type":"Feature",
+"id":12013,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BOCA CHICA OCEAN SHORES (777)"},
+"geometry":{"type":"Point","coordinates":[-81.649389,24.58482]}}
+,
+{"type":"Feature",
+"id":11943,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BOCA CHICA OCEAN SHORES (777)"},
+"geometry":{"type":"Point","coordinates":[-81.648958,24.585673]}}
+,
+{"type":"Feature",
+"id":11946,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SIMILAR SOUND SECTION B (669)"},
+"geometry":{"type":"Point","coordinates":[-81.656255,24.597922]}}
+,
+{"type":"Feature",
+"id":11843,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.651376,24.598786]}}
+,
+{"type":"Feature",
+"id":11901,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.651376,24.598786]}}
+,
+{"type":"Feature",
+"id":11959,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"Not in Subdivision"},
+"geometry":{"type":"Point","coordinates":[-81.651376,24.598786]}}
+,
+{"type":"Feature",
+"id":11900,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PORPOISE POINT SECTION 6 (668)"},
+"geometry":{"type":"Point","coordinates":[-81.655342,24.600636]}}
+,
+{"type":"Feature",
+"id":11823,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PORPOISE POINT SECTION 4 (666)"},
+"geometry":{"type":"Point","coordinates":[-81.652494,24.601488]}}
+,
+{"type":"Feature",
+"id":11906,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"PORPOISE POINT SECTION 4 (666)"},
+"geometry":{"type":"Point","coordinates":[-81.651575,24.600777]}}
+,
+{"type":"Feature",
+"id":11878,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SHARK KEY AMENDED (813)"},
+"geometry":{"type":"Point","coordinates":[-81.645767,24.603912]}}
+,
+{"type":"Feature",
+"id":11885,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SHARK KEY AMENDED (813)"},
+"geometry":{"type":"Point","coordinates":[-81.648326,24.608288]}}
+,
+{"type":"Feature",
+"id":11864,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SHARK KEY AMENDED (813)"},
+"geometry":{"type":"Point","coordinates":[-81.646674,24.605848]}}
+,
+{"type":"Feature",
+"id":11787,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"SHARK KEY AMENDED (813)"},
+"geometry":{"type":"Point","coordinates":[-81.651611,24.612099]}}
+,
+{"type":"Feature",
+"id":11889,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BAY POINT AMENDED PLAT (882)"},
+"geometry":{"type":"Point","coordinates":[-81.592127,24.618441]}}
+,
+{"type":"Feature",
+"id":11846,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BAY POINT AMENDED PLAT (882)"},
+"geometry":{"type":"Point","coordinates":[-81.590223,24.62357]}}
+,
+{"type":"Feature",
+"id":12007,"properties":{"RE_Address_City":"Key West","[Subdivision Name (ObjectID)]":"BAY POINT AMENDED PLAT (882)"},
+"geometry":{"type":"Point","coordinates":[-81.592283,24.62823]}}
+
+]}
