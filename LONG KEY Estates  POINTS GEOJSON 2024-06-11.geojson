@@ -1,0 +1,27 @@
+{"type":"FeatureCollection","name":"All Addresses:1|Selection","map_layer_type":"Point","bounds":[[-80.847646,24.804277],[-80.813764,24.823811]],"center":[-80.830705,24.814044],"zoom":8,"median_zoom":14,"count":6,"property_names":["RE_REID","[Subdivision Name (ObjectID)]"],"features":
+[
+{"type":"Feature",
+"id":1,"properties":{"RE_REID":"18-78633","[Subdivision Name (ObjectID)]":"LONG KEY PROJECT AMENDED (321)"},
+"geometry":{"type":"Point","coordinates":[-80.847664,24.804269]}}
+,
+{"type":"Feature",
+"id":7,"properties":{"RE_REID":"18-76340","[Subdivision Name (ObjectID)]":"LONG KEY PROJECT AMENDED (321)"},
+"geometry":{"type":"Point","coordinates":[-80.847664,24.804269]}}
+,
+{"type":"Feature",
+"id":2,"properties":{"RE_REID":"20-87724","[Subdivision Name (ObjectID)]":"LONG KEY ESTATES (315)"},
+"geometry":{"type":"Point","coordinates":[-80.816148,24.822442]}}
+,
+{"type":"Feature",
+"id":12662,"properties":{"RE_REID":"10-46617","[Subdivision Name (ObjectID)]":"LONG KEY ESTATES 2ND ADDITION (317)"},
+"geometry":{"type":"Point","coordinates":[-80.815175,24.823402]}}
+,
+{"type":"Feature",
+"id":4,"properties":{"RE_REID":"16-65855","[Subdivision Name (ObjectID)]":"LONG KEY ESTATES 3RD ADDITION (319)"},
+"geometry":{"type":"Point","coordinates":[-80.81418,24.823479]}}
+,
+{"type":"Feature",
+"id":3,"properties":{"RE_REID":"02-30401","[Subdivision Name (ObjectID)]":"LONG KEY ESTATES 3RD ADDITION (319)"},
+"geometry":{"type":"Point","coordinates":[-80.813744,24.823822]}}
+
+]}
